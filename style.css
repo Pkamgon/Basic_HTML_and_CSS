@@ -1,0 +1,10 @@
+<style>
+    .my_style {
+     background-color: red;
+     color:blue;
+     text-decorative: underline;
+     font-weight:bold;
+     font-size:small;
+     }
+    </style>
+    <p class=".my_style"> This is pk cleaning services</p>
